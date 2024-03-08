@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;lotto-app-for-aws-cloud&apos; to &apos;lotto-app-for-git-test&apos;&#x0D;&#x0A;- Original element: &apos;lotto-app-for-aws-cloud&apos;&#x0D;&#x0A;- Renamed element: &apos;lotto-app-for-aws-cloud&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;lotto-app-for-aws-cloud&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=lotto-app-for-aws-cloud" name="lotto-app-for-git-test" references="true" stamp="1709818944871" version="1.0"/>
+</session>

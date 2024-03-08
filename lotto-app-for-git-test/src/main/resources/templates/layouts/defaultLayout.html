@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html decorate="layouts/defaultTemplate">
+<head>
+	<title>Page Y Title Login Form</title>
+	<link href="/css/bootstrap.min.css"  rel="stylesheet">
+</head>
+
+<body>
+	<!--  header  -->
+	<div th:replace="layouts/commonHeader :: header">My Header will go here.</div>
+		
+	<!--  content   -->
+	<section layout:fragment="content">
+		<p>replace this wit a page that has the layout:fragment="content" </p>
+	</section>
+		
+	<!--  footer   -->
+	<div th:replace="layouts/commonFooter :: footer">My Footer will go here.</div>
+	
+	<script src="/js/bootstrap.bundle.js"></script>
+</body>
+
+</html>

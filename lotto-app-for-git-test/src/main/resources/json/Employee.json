@@ -1,0 +1,23 @@
+{
+  "id": 123,
+  "name": "Pankajxxxqq",
+  "permanent": true,
+  "address": {
+    "street": "Albany Drqq",
+    "city": "San Joseqq",
+    "zipcode": 95129
+  },
+  "phoneNumbers": [
+    123456,
+    987654
+  ],
+  "role": "Manager",
+  "cities": [
+    "Los Angelesxxxqq",
+    "New YorkXXqqX"
+  ],
+  "properties": {
+    "age": "77 years",
+    "salary": "777777 USD"
+  }
+}
