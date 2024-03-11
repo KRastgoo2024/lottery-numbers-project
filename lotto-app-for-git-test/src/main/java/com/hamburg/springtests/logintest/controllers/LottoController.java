@@ -30,11 +30,6 @@ public class LottoController {
 	public String processLogin(@Valid LottoModel lottoModel, BindingResult bindingResult, Model model) {
 
 		lottoModel.setLottoZahlen(lottoService.getLottoZahlen());
-//		if (bindingResult.hasErrors()) {
-//			System.out.println("============================in bindingResult.hasErrors()========================");
-//			model.addAttribute("lottoModel", lottoModel);
-//			return "lottoForm.html";
-//		}
 
 		System.out.println("============================in LottoController in processLogin========================");
 		model.addAttribute("lottoModel", lottoModel);
