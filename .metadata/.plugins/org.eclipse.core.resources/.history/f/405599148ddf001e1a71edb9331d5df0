@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html layout:decorate="layouts/defaultLayout">
+
+<body>
+	<div class="container my-5" layout:fragment="content">
+		<form action="#" method="post" th:action="@{processLotto}" th:object="${lottoModel}">			
+		  <div class="mb-3">
+			  <label for="textarea-lottozahlen" class="form-label">Lottozahlen geändert für Git:</label>
+			  <textarea rows="20" cols="150" class="form-control" aria-label="With textarea" id="textarea-lottozahlen" th:field="*{lottoZahlen}"></textarea>
+		  </div>	  
+		  <button type="submit" class="btn btn-primary">Lotto</button>
+		</form>
+	</div>
+</body>
+</html>

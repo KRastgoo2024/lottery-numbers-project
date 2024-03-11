@@ -222,3 +222,33 @@ Java Model Exception: Error in Java Model (code 969): lotto-app-for-aws-cloud do
 	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:63)
 !SUBENTRY 1 org.eclipse.jdt.core 4 969 2024-03-07 14:46:54.192
 !MESSAGE lotto-app-for-aws-cloud does not exist
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:56:51.989
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:56:52.092
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:56:54.585
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:57:17.199
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:58:28.733
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:58:28.812
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:58:31.686
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 12:59:08.480
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 13:14:17.343
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
+
+!ENTRY org.springframework.tooling.boot.ls 1 0 2024-03-11 13:14:28.723
+!MESSAGE Classpath changed for project: lotto-app-for-git-test
